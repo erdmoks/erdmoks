@@ -4,7 +4,7 @@ I am a computer engineering student with knowledge of SOC operations, basic pene
 I have experience with Python, Java, C#, and SQL.
 
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/erdmoks.png" alt="Your Image Badge" />
+
 
 <!--
 **erdmoks/erdmoks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
