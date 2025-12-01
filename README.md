@@ -3,6 +3,8 @@ I am developing my skills in the field of cybersecurity.
 I am a computer engineering student with knowledge of SOC operations, basic penetration testing, and incident analysis. 
 I have experience with Python, Java, C#, and SQL.
 
+https://tryhackme.com/p/erdmoks
+
 <img src="https://tryhackme-badges.s3.amazonaws.com/erdmoks.png" />
 
 <!--
