@@ -3,7 +3,7 @@ I am developing my skills in the field of cybersecurity.
 I am a computer engineering student with knowledge of SOC operations, basic penetration testing, and incident analysis. 
 I have experience with Python, Java, C#, and SQL.
 
-<img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4799482" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/erdmoks.png" alt="Your Image Badge" />
 
 <!--
 **erdmoks/erdmoks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
